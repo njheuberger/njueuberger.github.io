@@ -101,7 +101,6 @@ defaults:
       related: true
   # _pages
   - scope:
-   classes: wide
       path: "_pages"
       type: pages
     values:
